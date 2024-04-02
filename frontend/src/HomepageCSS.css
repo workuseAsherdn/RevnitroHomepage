@@ -1,0 +1,8938 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
+  background-color: #000000;
+}
+
+.revnitrobodyblack {
+  background-color: #000000;
+}
+
+/*--------------------------------------------Banner Section----------------------------*/
+
+@media (max-width: 600px) {
+  .overlaysadsddsdsd {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 0.5s ease;
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+
+  .containermobiileversionforcards:hover .overlaysadsddsdsd {
+    opacity: 1;
+  }
+
+  .w-100 {
+    width: 100%;
+    height: 270px !important;
+    object-fit: cover !important;
+    background-color: #000000 !important;
+  }
+  .carousel-caption {
+    width: 469px;
+    height: 225.7px;
+    position: absolute;
+    right: 71% !important;
+    top: 80px !important;
+    left: 15% !important;
+    padding-top: 1.25rem !important;
+    padding-bottom: 1.25rem !important;
+    color: #fff !important;
+    text-align: center;
+    width: 416px;
+    top: -2462px;
+    left: -1683px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+  }
+
+  .HorziontallinefortheIamgebanner {
+    background-color: #ff0000;
+    height: 2px;
+  }
+  .HeadingBannerImageTextDiv {
+    font-family: Poppins;
+    text-underline-offset: 14px;
+    -webkit-text-decoration: underline #ff0000;
+    text-decoration: 3px underline #ff0000;
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+  }
+  .BannerImageTextDiv {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+  }
+  .carousel-caption {
+    height: 225.7px;
+    position: absolute;
+    right: 71% !important;
+    top: 105px !important;
+    left: 12% !important;
+    padding-top: 1.25rem !important;
+    padding-bottom: 1.25rem !important;
+    color: #fff !important;
+    text-align: center;
+    width: 300px;
+    top: -2462px;
+    left: -1683px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+  }
+
+  .BannerImgParatext {
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 13px;
+    text-align: left;
+    width: 272px;
+    height: 90px;
+    margin-top: 20px;
+  }
+
+  .KnowmoreBannerImageButton {
+    width: 80px;
+    height: 22px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    border: none;
+    background-color: #2200ff;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: center;
+    color: #fff;
+    margin-top: 14px;
+    border-radius: 3px;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1000px) {
+  .w-100 {
+    width: 100%;
+    height: 270px !important;
+    object-fit: cover !important;
+    background-color: #000000 !important;
+  }
+  .carousel-caption {
+    width: 469px;
+    height: 225.7px;
+    position: absolute;
+    right: 71% !important;
+    top: 80px !important;
+    left: 15% !important;
+    padding-top: 1.25rem !important;
+    padding-bottom: 1.25rem !important;
+    color: #fff !important;
+    text-align: center;
+    width: 416px;
+    top: -2462px;
+    left: -1683px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+  }
+
+  .HorziontallinefortheIamgebanner {
+    background-color: #ff0000;
+    height: 2px;
+  }
+  .HeadingBannerImageTextDiv {
+    font-family: Poppins;
+    text-underline-offset: 14px;
+    -webkit-text-decoration: underline #ff0000;
+    text-decoration: 3px underline #ff0000;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: left;
+  }
+  .BannerImageTextDiv {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+  }
+  .carousel-caption {
+    height: 225.7px;
+    position: absolute;
+    right: 71% !important;
+    top: 68px !important;
+    left: 15% !important;
+    padding-top: 1.25rem !important;
+    padding-bottom: 1.25rem !important;
+    color: #fff !important;
+    text-align: center;
+    width: 412px;
+    top: -2462px;
+    left: -1683px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+  }
+
+  .BannerImgParatext {
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    width: 314px;
+    height: 95px;
+    margin-top: 20px;
+  }
+
+  .KnowmoreBannerImageButton {
+    width: 80px;
+    height: 22px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    border: none;
+    background-color: #2200ff;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: center;
+    color: #fff;
+    margin-top: 14px;
+    border-radius: 3px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .w-100 {
+    width: 100%;
+    height: 430px !important;
+    object-fit: cover !important;
+    background-color: #000000 !important;
+  }
+  .HorziontallinefortheIamgebanner {
+    background-color: #ff0000;
+    height: 2px;
+  }
+  .HeadingBannerImageTextDiv {
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: left;
+    text-underline-offset: 14px;
+    -webkit-text-decoration: underline #ff0000;
+    text-decoration: 3px underline #ff0000;
+  }
+  .BannerImageTextDiv {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+  }
+  .carousel-caption {
+    width: 469px;
+    height: 225.7px;
+    position: absolute;
+    right: 71% !important;
+    top: 80px !important;
+    left: 15% !important;
+    padding-top: 1.25rem !important;
+    padding-bottom: 1.25rem !important;
+    color: #fff !important;
+    text-align: center;
+    width: 416px;
+    top: -2462px;
+    left: -1683px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+  }
+
+  .BannerImgParatext {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    width: 416px;
+    height: 90px;
+    margin-top: 26px;
+  }
+
+  .KnowmoreBannerImageButton {
+    width: 144.35px;
+    height: 39.7px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    border: none;
+    background-color: #2200ff;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+    color: #fff;
+    margin-top: 31px;
+  }
+}
+
+/*--------------------------------------------Banner Section----------------------------*/
+
+/*--------------------------------------------Third Section----------------------------*/
+
+@media (max-width: 600px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 32px;
+    margin-bottom: 25px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+@media (min-width: 601px) and (max-width: 750px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 32px;
+    margin-bottom: 25px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 750px) and (max-width: 900px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 32px;
+    margin-bottom: 25px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 80px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 64px;
+    margin-bottom: 19px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1354px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 80px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 64px;
+    margin-bottom: 19px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+@media (min-width: 1355px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 80px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 64px;
+    margin-bottom: 19px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+@media (min-width: 1533px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 80px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 64px;
+    margin-bottom: 19px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+@media (min-width: 1700px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 80px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 64px;
+    margin-bottom: 19px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+@media (min-width: 1917px) {
+  .thirdsectionRevnitro div h1 {
+    font-family: "Poppins";
+    font-size: 80px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-bottom: 40px;
+  }
+  .thirdsectionRevnitro div h3 {
+    font-family: "Poppins";
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}
+
+/*--------------------------------------------Third Section----------------------------*/
+
+/*--------------------------------------------Review Section----------------------------*/
+
+@media (max-width: 360px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 17px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .bikereviewcontent {
+    width: 150px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 11px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .riderreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+  }
+}
+@media (min-width: 361px) and (max-width: 400px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 17px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .bikereviewcontent {
+    width: 150px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 11px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .riderreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+  }
+}
+@media (min-width: 401px) and (max-width: 450px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 17px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .bikereviewcontent {
+    width: 150px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 11px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .riderreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 27px;
+    row-gap: 25px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 451px) and (max-width: 550px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 63px;
+    row-gap: 25px;
+  }
+
+  .bikereviewcontent {
+    width: 150px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 11px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 63px;
+    row-gap: 25px;
+  }
+
+  .riderreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 63px;
+    row-gap: 25px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 63px;
+    row-gap: 25px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 551px) and (max-width: 650px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 13px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 13px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 13px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 13px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 101px;
+    row-gap: 38px;
+  }
+
+  .bikereviewcontent {
+    width: 150px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 11px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 101px;
+    row-gap: 38px;
+  }
+
+  .riderreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 101px;
+    row-gap: 38px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 101px;
+    row-gap: 38px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 145px;
+    height: 145px;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 651px) and (max-width: 750px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 13px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 13px;
+
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 13px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 13px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 106px;
+    row-gap: 38px;
+  }
+
+  .bikereviewcontent {
+    width: 150px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 11px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 106px;
+    row-gap: 38px;
+  }
+
+  .riderreviewcards {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 106px;
+    row-gap: 38px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 106px;
+    row-gap: 38px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 751px) and (max-width: 850px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 135px;
+    row-gap: 38px;
+  }
+
+  .bikereviewcontent {
+    width: 193px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 14px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 135px;
+    row-gap: 38px;
+  }
+
+  .riderreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 135px;
+    row-gap: 38px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 135px;
+    row-gap: 38px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 196px;
+    height: 196px;
+    object-fit: cover;
+  }
+}
+@media (min-width: 851px) and (max-width: 950px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 138px;
+    row-gap: 38px;
+  }
+
+  .bikereviewcontent {
+    width: 193px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 14px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 138px;
+    row-gap: 38px;
+  }
+
+  .riderreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 138px;
+    row-gap: 38px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 138px;
+    row-gap: 38px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 225px;
+    height: 225px;
+    object-fit: cover;
+  }
+}
+@media (min-width: 951px) and (max-width: 1050px) {
+  .mobilehidden {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 2px solid #f00;
+    margin-left: 0px;
+    margin-top: 5px;
+  }
+  .reviewmargintopsection {
+    margin-top: 20px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 67px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 183px;
+    row-gap: 38px;
+  }
+
+  .bikereviewcontent {
+    width: 230px;
+    color: #ffffff;
+    margin-top: 9px;
+    margin-bottom: -1px;
+    font-size: 15px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 183px;
+    row-gap: 38px;
+  }
+
+  .riderreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 183px;
+    row-gap: 38px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 183px;
+    row-gap: 38px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+
+  .bike1cards {
+    width: 100%;
+  }
+
+  .bike1cards img {
+    width: 235px;
+    height: 235px;
+    object-fit: cover;
+  }
+}
+@media (min-width: 1051px) and (max-width: 1150px) {
+  .bike1cards img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .desktophiddenrevnitro {
+    display: none;
+  }
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 3px solid #f00;
+    margin-left: 21px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 3px solid #f00;
+    margin-left: 54px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 3px solid #f00;
+    margin-left: 42px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 3px solid #f00;
+    margin-left: 6px;
+    margin-top: 7px;
+  }
+  .reviewmargintopsection {
+    margin-top: 32px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 90px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 38px;
+    margin-top: 22px;
+  }
+
+  .bikereviewcontent {
+    width: 190px;
+    color: #ffffff;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    font-size: 12px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .riderreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+}
+@media (min-width: 1151px) and (max-width: 1250px) {
+  .bike1cards img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .desktophiddenrevnitro {
+    display: none;
+  }
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 3px solid #f00;
+    margin-left: 21px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 3px solid #f00;
+    margin-left: 54px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 3px solid #f00;
+    margin-left: 42px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 3px solid #f00;
+    margin-left: 6px;
+    margin-top: 7px;
+  }
+  .reviewmargintopsection {
+    margin-top: 32px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 90px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 38px;
+    margin-top: 22px;
+  }
+
+  .bikereviewcontent {
+    width: 190px;
+    color: #ffffff;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    font-size: 12px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .riderreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+}
+
+@media (min-width: 1251px) and (max-width: 1354px) {
+  .bike1cards img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .desktophiddenrevnitro {
+    display: none;
+  }
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 3px solid #f00;
+    margin-left: 21px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 3px solid #f00;
+    margin-left: 54px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 3px solid #f00;
+    margin-left: 42px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 3px solid #f00;
+    margin-left: 6px;
+    margin-top: 7px;
+  }
+  .reviewmargintopsection {
+    margin-top: 32px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 90px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 38px;
+    margin-top: 22px;
+  }
+
+  .bikereviewcontent {
+    width: 190px;
+    color: #ffffff;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    font-size: 12px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .riderreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .techincalreviewcards {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 36px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+}
+
+@media (min-width: 1355px) {
+  .desktophiddenrevnitro {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 3px solid #f00;
+    margin-left: 29px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 3px solid #f00;
+    margin-left: 66px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 3px solid #f00;
+    margin-left: 47px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 3px solid #f00;
+    margin-left: 2px;
+    margin-top: 7px;
+  }
+  .reviewmargintopsection {
+    margin-top: 32px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 116px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+    /* padding-left: 8px; */
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+  }
+
+  .bikereviewcontent {
+    width: 280px;
+    color: #ffffff;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    font-size: 17px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+    margin-top: 25px;
+  }
+
+  .riderreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+    margin-top: 25px;
+  }
+
+  .techincalreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+    margin-top: 25px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+}
+@media (min-width: 1533px) {
+  .desktophiddenrevnitro {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 3px solid #f00;
+    margin-left: 29px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 3px solid #f00;
+    margin-left: 66px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 3px solid #f00;
+    margin-left: 47px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 3px solid #f00;
+    margin-left: 2px;
+    margin-top: 7px;
+  }
+  .reviewmargintopsection {
+    margin-top: 52px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 150px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+    /* padding-left: 8px; */
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 66px;
+    margin-top: 25px;
+  }
+
+  .bikereviewcontent {
+    width: 280px;
+    color: #ffffff;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    font-size: 17px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 66px;
+    margin-top: 25px;
+  }
+
+  .riderreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 66px;
+    margin-top: 25px;
+  }
+
+  .techincalreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 66px;
+    margin-top: 25px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+}
+@media (min-width: 1700px) {
+  .desktophiddenrevnitro {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 3px solid #f00;
+    margin-left: 29px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 3px solid #f00;
+    margin-left: 66px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 3px solid #f00;
+    margin-left: 47px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 3px solid #f00;
+    margin-left: 2px;
+    margin-top: 7px;
+  }
+  .reviewmargintopsection {
+    margin-top: 52px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 116px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+    /* padding-left: 8px; */
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+  }
+
+  .bikereviewcontent {
+    width: 280px;
+    color: #ffffff;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    font-size: 17px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+    margin-top: 25px;
+  }
+
+  .riderreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+    margin-top: 25px;
+  }
+
+  .techincalreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 34px;
+    margin-top: 25px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+}
+@media (min-width: 1917px) {
+  .desktophiddenrevnitro {
+    display: none;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+  }
+  .marginbottombikedeatisl12csds {
+  }
+  .marginbottombikedeatisl12ssdds {
+  }
+  .marginbottombikedeatisl {
+    border-bottom: 3px solid #f00;
+    margin-left: 29px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12xsxs {
+    border-bottom: 3px solid #f00;
+    margin-left: 66px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12csds {
+    border-bottom: 3px solid #f00;
+    margin-left: 47px;
+    margin-top: 7px;
+  }
+
+  .marginbottombikedeatisl12ssdds {
+    border-bottom: 3px solid #f00;
+    margin-left: 2px;
+    margin-top: 7px;
+  }
+  .reviewmargintopsection {
+    margin-top: 70px;
+  }
+
+  .reviewsectionrevnitrro {
+    display: flex;
+    justify-content: center;
+    column-gap: 165px;
+  }
+
+  .reviewsectionrevnitrro .bikereviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .carreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .reviewsectionrevnitrro .riderreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+    /* padding-left: 8px; */
+  }
+  .reviewsectionrevnitrro .techinicalreviewsrreviewsection {
+    font-family: "Poppins";
+    font-size: 22px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .marginbottomlinereview {
+    border-bottom: 1px solid #ffffff;
+    margin-left: 77px;
+    margin-right: 77px;
+    margin-top: 21px;
+    margin-bottom: 39px;
+  }
+
+  .readmore a {
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    padding-left: 7px;
+  }
+
+  .bikereviewcards {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    column-gap: 80px;
+  }
+
+  .bikereviewcontent {
+    width: 280px;
+    color: #ffffff;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    font-size: 17px;
+    padding-left: 7px;
+  }
+
+  .carreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 80px;
+    margin-top: 25px;
+  }
+
+  .riderreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 80px;
+    margin-top: 25px;
+  }
+
+  .techincalreviewcards {
+    display: flex;
+    justify-content: center;
+    column-gap: 80px;
+    margin-top: 25px;
+  }
+
+  .carreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .riderreviewcardsdisplaynone {
+    display: none;
+  }
+
+  .techinicalreviewdisplaynone {
+    display: none;
+  }
+  .bikereviewcardsdsiplaynone {
+    /* display: none; */
+  }
+}
+
+/*------------------------Additional Codes--------------------*/
+
+.BikeRevirewSectrionImagesize {
+  width: 281px;
+  height: 281px;
+  object-fit: cover;
+}
+
+/*------------------------Additional Codes--------------------*/
+
+/*--------------------------------------------Review Section----------------------------*/
+/*--------------------------------------------Book Service Section----------------------------*/
+
+@media (max-width: 360px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 30px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: baseline;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 2px;
+    margin-right: -6px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+@media (min-width: 361px) and (max-width: 400px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 30px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: baseline;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 2px;
+    margin-right: -6px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+@media (min-width: 401px) and (max-width: 450px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 30px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: baseline;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 2px;
+    margin-right: -6px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+@media (min-width: 451px) and (max-width: 550px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 30px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: baseline;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 2px;
+    margin-right: -6px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+@media (min-width: 551px) and (max-width: 650px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 30px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 31px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: baseline;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 2px;
+    margin-right: -6px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+
+@media (min-width: 651px) and (max-width: 750px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 30px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 31px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: baseline;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 14px;
+    padding-right: -4px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: -2px;
+    margin-right: 0px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+
+@media (min-width: 750px) and (max-width: 900px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 30px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 31px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: baseline;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 14px;
+    padding-right: -4px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: -2px;
+    margin-right: 0px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1200px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 30px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 39px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: center;
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 14px;
+    padding-right: -4px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 22px;
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: -2px;
+    margin-right: 0px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1354px) {
+  .videodivrightsection {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    margin-top: 40px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 43px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 25px;
+    font-family: "Poppins";
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 65px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: center;
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 14px;
+    padding-right: -4px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 23px;
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: -2px;
+    margin-right: -8px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+  }
+}
+
+@media (min-width: 1355px) {
+  .desktophiddenrevnitro {
+    display: none;
+  }
+
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 35px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 54px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 65px;
+  }
+
+  .bookimageserviceflex div img {
+    width: 85px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: center;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    font-size: 24px;
+    text-decoration: none;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 13px;
+    margin-right: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+}
+@media (min-width: 1533px) {
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 74px;
+    /* align-items: center; */
+    margin-top: 35px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 54px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 65px;
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 85px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: center;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    text-decoration: none;
+    font-size: 24px;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 13px;
+    margin-right: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+}
+@media (min-width: 1700px) {
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    /* align-items: center; */
+    margin-top: 35px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 54px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 65px;
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 110px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 85px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: center;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    font-size: 24px;
+    text-decoration: none;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 13px;
+    margin-right: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+}
+@media (min-width: 1919px) {
+  .booksserviceconsultationsflex {
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+    /* align-items: center; */
+    margin-top: 35px;
+  }
+
+  .bookservicesectionsrevnitro h2 {
+    font-size: 54px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 65px;
+  }
+
+  /* .bookservicesectionsrevnitro h2:hover {
+        font-size: 54px;
+        text-align: center;
+        margin-top: 90px;
+        margin-bottom: 65px;
+      } */
+
+  .bookimageserviceflex div img {
+    width: 85px;
+  }
+
+  .bookimageserviceflex {
+    display: flex;
+    align-items: center;
+    /* border-bottom: 2px solid #766d6d; */
+  }
+
+  .BOOKINGSERVICEHEADINGS {
+    font-size: 27px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .BOOKINGSERVICEHEADINGS a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS :hover {
+    text-decoration: none;
+    font-size: 24px;
+    /* color: yellow; */
+  }
+  .BOOKINGSERVICEHEADINGS a:hover {
+    color: #f00;
+    font-size: 24px;
+    text-decoration: none;
+  }
+
+  /* #change {
+        visibility: hidden;
+      } */
+
+  #containersssection:hover ~ #change {
+    visibility: visible;
+  }
+
+  .icondivleftsection {
+    /* width: 45%; */
+  }
+
+  .videodivrightsection {
+    /* width: 56%; */
+    margin-top: 0px;
+  }
+
+  .bookservicesectionmargin {
+    border: 1px solid #766d6d;
+    margin-left: 13px;
+    margin-right: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+}
+
+/*--------------------------------------------Book Service Section----------------------------*/
+/*--------------------------------------------DontJust Section----------------------------*/
+
+@media (max-width: 600px) {
+  .dontjustnamesection {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+  }
+
+  .dontjustnamesection h2 {
+    font-size: 21px;
+    color: #ffffff;
+    margin-bottom: 3px;
+    font-weight: 500;
+    font-family: Poppins;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 750px) {
+  .dontjustnamesection {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+  }
+
+  .dontjustnamesection h2 {
+    font-size: 21px;
+    color: #ffffff;
+    margin-bottom: 3px;
+    font-weight: 500;
+    font-family: Poppins;
+  }
+}
+@media (min-width: 750px) and (max-width: 900px) {
+  .dontjustnamesection {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+  }
+
+  .dontjustnamesection h2 {
+    font-size: 21px;
+    color: #ffffff;
+    margin-bottom: 3px;
+    font-weight: 500;
+    font-family: Poppins;
+  }
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .dontjustnamesection {
+    padding-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 83px;
+  }
+
+  .dontjustnamesection h2 {
+    font-size: 46px;
+    color: #ffffff;
+    margin-bottom: -1px;
+    font-weight: 700;
+    font-family: Poppins;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1354px) {
+  .dontjustnamesection {
+    padding-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 83px;
+  }
+
+  .dontjustnamesection h2 {
+    font-size: 70px;
+    color: #ffffff;
+    margin-bottom: -1px;
+    font-weight: 700;
+    font-family: Poppins;
+  }
+}
+
+@media (min-width: 1355px) {
+  .dontjustnamesection {
+    padding-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 83px;
+  }
+
+  .dontjustnamesection h2 {
+    font-size: 70px;
+    color: #ffffff;
+    margin-bottom: -1px;
+    font-weight: 700;
+    font-family: Poppins;
+  }
+}
+@media (min-width: 1700px) {
+  .dontjustnamesection {
+    padding-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 83px;
+  }
+
+  .dontjustnamesection h2 {
+    font-size: 70px;
+    color: #ffffff;
+    margin-bottom: -1px;
+    font-weight: 700;
+    font-family: Poppins;
+  }
+}
+@media (min-width: 1919px) {
+  .dontjustnamesection {
+    padding-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 83px;
+  }
+
+  .dontjustnamesection h2 {
+    font-size: 70px;
+    color: #ffffff;
+    margin-bottom: -1px;
+    font-weight: 700;
+    font-family: Poppins;
+  }
+}
+
+/*--------------------------------------------DontJust Section----------------------------*/
+
+/*--------------------------------------------Gradeint Section----------------------------*/
+
+@media (max-width: 600px) {
+  .gardeientsectionmain {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 9px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+@media (min-width: 601px) and (max-width: 750px) {
+  .gardeientsectionmain {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 9px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+@media (min-width: 750px) and (max-width: 900px) {
+  .gardeientsectionmain {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 9px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .gardeientsectionmain {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 9px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+@media (min-width: 1201px) {
+  .gardeientsectionmain {
+    padding-left: 40px;
+    padding-right: 50px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 32px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 24px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+
+@media (min-width: 1355px) {
+  .gardeientsectionmain {
+    padding-left: 40px;
+    padding-right: 50px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 32px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 24px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+@media (min-width: 1533px) {
+  .gardeientsectionmain {
+    padding-left: 40px;
+    padding-right: 50px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 32px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 24px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+@media (min-width: 1700px) {
+  .gardeientsectionmain {
+    padding-left: 40px;
+    padding-right: 50px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 32px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 24px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+@media (min-width: 1917px) {
+  .gardeientsectionmain {
+    padding-left: 40px;
+    padding-right: 50px;
+  }
+
+  .gradientflexsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .fromtheworld {
+    font-size: 32px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: Poppins;
+  }
+
+  .drivenbypassion {
+    font-size: 24px;
+    font-style: italic;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .gardeientsectionmain {
+    background: linear-gradient(300deg, #2200ff, #ff0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: gardeientsectionmain 37s ease infinite;
+    -moz-animation: gardeientsectionmain 37s ease infinite;
+    animation: gardeientsectionmain 37s ease infinite;
+  }
+
+  @-webkit-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @-moz-keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gardeientsectionmain {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+}
+
+/*--------------------------------------------Gradeint Section----------------------------*/
+
+/*--------------------------------------------indianame Section----------------------------*/
+@media (max-width: 600px) {
+  .indiansectionname h1 {
+    font-size: 36px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 16px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 14px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 22px;
+    padding-left: 33px;
+    padding-right: 33px;
+  }
+}
+@media (min-width: 601px) and (max-width: 750px) {
+  .indiansectionname h1 {
+    font-size: 36px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 16px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 14px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 22px;
+    padding-left: 33px;
+    padding-right: 33px;
+  }
+}
+@media (min-width: 750px) and (max-width: 900px) {
+  .indiansectionname h1 {
+    font-size: 36px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 16px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 14px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 22px;
+    padding-left: 33px;
+    padding-right: 33px;
+  }
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .indiansectionname h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 32px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 15px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+@media (min-width: 1201px) {
+  .indiansectionname h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 32px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 15px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+@media (min-width: 1355px) {
+  .indiansectionname h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 32px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 15px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+@media (min-width: 1533px) {
+  .indiansectionname h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 32px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 15px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+@media (min-width: 1700px) {
+  .indiansectionname h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 32px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 15px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+@media (min-width: 1917px) {
+  .indiansectionname h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .indiansectionname h3 {
+    font-size: 32px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 15px;
+    color: #dddddd;
+  }
+
+  .indiansectionname h6 {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+
+/*--------------------------------------------indianame Section----------------------------*/
+
+/*--------------------------------------------Image Section----------------------------*/
+
+@media (max-width: 360px) {
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: auto;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0;
+  }
+  .accordion ul:hover li:hover {
+    width: auto;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+      display: none;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 400px) {
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: auto;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0;
+  }
+  .accordion ul:hover li:hover {
+    width: auto;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+      display: none;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 401px) and (max-width: 450px) {
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: auto;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0;
+  }
+  .accordion ul:hover li:hover {
+    width: auto;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+      display: none;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 451px) and (max-width: 550px) {
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: auto;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0;
+  }
+  .accordion ul:hover li:hover {
+    width: auto;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+      display: none;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 551px) and (max-width: 650px) {
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: auto;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0;
+  }
+  .accordion ul:hover li:hover {
+    width: auto;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+      display: none;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+@media (min-width: 651px) and (max-width: 799px) {
+  .mobileversionfornrentriflex {
+    display: none;
+  }
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: 8% !important;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0 !important;
+  }
+  .accordion ul:hover li:hover {
+    width: 13% !important;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 800px) {
+  .mobileversionfornrentriflex {
+    display: none;
+  }
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: 8% !important;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0 !important;
+  }
+  .accordion ul:hover li:hover {
+    width: 13% !important;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .mobileversionfornrentriflex {
+    display: none;
+  }
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: 8% !important;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0 !important;
+  }
+  .accordion ul:hover li:hover {
+    width: 13% !important;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+@media (min-width: 1200px) {
+  .mobileversionfornrentriflex {
+    display: none;
+  }
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: 8% !important;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0 !important;
+  }
+  .accordion ul:hover li:hover {
+    width: 13% !important;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 1355px) {
+  .mobileversionfornrentriflex {
+    display: none;
+  }
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: 8% !important;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0 !important;
+  }
+  .accordion ul:hover li:hover {
+    width: 13% !important;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+@media (min-width: 1470px) {
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: 8% !important;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0 !important;
+  }
+  .accordion ul:hover li:hover {
+    width: 11% !important;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+@media (min-width: 1700px) {
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: 8% !important;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0 !important;
+  }
+  .accordion ul:hover li:hover {
+    width: 13% !important;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+@media (min-width: 1917px) {
+  .accordion {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+  }
+  .accordion ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .accordion ul li {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: all 500ms ease;
+  }
+  .accordion ul li div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  .accordion ul li div a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    /* padding: 15px 20px; */
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+  }
+  .accordion ul li div a * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px);
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  .accordion ul li div a h2 {
+    font-family: Montserrat, sans-serif;
+    text-overflow: clip;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    top: 160px;
+    font-weight: 550;
+  }
+  .accordion ul li div a p {
+    top: 160px;
+    font-size: 13.5px;
+  }
+  .accordion ul li:nth-child(1) {
+    background-image: url("../public/images/Artboard1.png");
+  }
+  .accordion ul li:nth-child(2) {
+    background-image: url("../public/images/Artboard2.png");
+  }
+  .accordion ul li:nth-child(3) {
+    background-image: url("../public/images/Artboard3.png");
+  }
+  .accordion ul li:nth-child(4) {
+    background-image: url("../public/images/Artboard4.png");
+  }
+  .accordion ul li:nth-child(5) {
+    background-image: url("../public/images/Artboard5.png");
+  }
+
+  .accordion ul:hover li,
+  .accordion ul:focus-within li {
+    width: 8%;
+  }
+  .accordion ul li:focus {
+    outline: none;
+  }
+  .accordion ul:hover li:hover,
+  .accordion ul li:focus,
+  .accordion ul:focus-within li:focus {
+    width: 60%;
+  }
+  .accordion ul:hover li:hover a,
+  .accordion ul li:focus a,
+  .accordion ul:focus-within li:focus a {
+    background: rgba(0, 0, 0, 0.4);
+  }
+  .accordion ul:hover li:hover a *,
+  .accordion ul li:focus a *,
+  .accordion ul:focus-within li:focus a * {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  .accordion ul:hover li {
+    width: 8% !important;
+  }
+  .accordion ul:hover li a * {
+    opacity: 0 !important;
+  }
+  .accordion ul:hover li:hover {
+    width: 8% !important;
+  }
+  .accordion ul:hover li:hover a {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .accordion ul:hover li:hover a * {
+    text-align: center;
+    opacity: 1 !important;
+    padding-left: 0px;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      margin: 0;
+    }
+    .accordion {
+      height: auto;
+    }
+    .accordion ul li,
+    .accordion ul:hover li,
+    .accordion ul li:hover,
+    .accordion ul:hover li:hover {
+      position: relative;
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+      -webkit-transition: none;
+      transition: none;
+    }
+  }
+  .about {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #666;
+  }
+  .about a {
+    color: blue;
+    text-decoration: none;
+  }
+  .about a:hover {
+    text-decoration: underline;
+  }
+
+  .revnitrobuttonimage {
+    background-color: #000000;
+    color: #ffffff;
+    padding-left: 0px;
+  }
+
+  .accordion ul li div a button {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 9px;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-top: 15px;
+  }
+  .accordortionpaddingtop {
+    padding-top: 100px;
+  }
+}
+
+/*--------------------------------------------Image Section----------------------------*/
+
+/*--------------------------------------------Youtube Video Section----------------------------*/
+
+@media (max-width: 600px) {
+  .yotubevideofirst h1 {
+    font-size: 47px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 52px;
+    margin-bottom: 13px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    column-gap: 19px;
+    margin-top: 20px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 42px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+    padding-bottom: 44px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 28px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .yotubevideosiframe iframe {
+    width: 280px;
+    height: 152px;
+  }
+}
+@media (min-width: 601px) and (max-width: 750px) {
+  .yotubevideofirst h1 {
+    font-size: 47px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 52px;
+    margin-bottom: 13px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    column-gap: 19px;
+    margin-top: 20px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 42px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+    padding-bottom: 44px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 28px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .yotubevideosiframe iframe {
+    width: 280px;
+    height: 152px;
+  }
+}
+@media (min-width: 750px) and (max-width: 900px) {
+  .yotubevideofirst h1 {
+    font-size: 47px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 52px;
+    margin-bottom: 13px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    column-gap: 19px;
+    margin-top: 20px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 42px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+    padding-bottom: 44px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 28px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .yotubevideosiframe iframe {
+    width: 280px;
+    height: 152px;
+  }
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .yotubevideofirst h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 22px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    column-gap: 21px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1354px) {
+  .yotubevideofirst h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 22px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    column-gap: 21px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+}
+@media (min-width: 1199px) {
+  .yotubevideofirst h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 22px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    column-gap: 21px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+}
+@media (min-width: 1355px) {
+  .yotubevideofirst h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 22px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 21px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 544px;
+    height: 304px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 544px;
+    height: 304px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 1534px) {
+  .yotubevideofirst h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 22px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    column-gap: 21px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 53px;
+    row-gap: 53px;
+    padding-bottom: 100px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 53px;
+    row-gap: 53px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 616px;
+    height: 325px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 616px;
+    height: 325px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+}
+@media (min-width: 1915px) {
+  .yotubevideofirst h1 {
+    font-size: 90px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .yotubevideoSECOND h3 {
+    color: #f00;
+    font-size: 22px;
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .toggleswitchFlexbox {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    column-gap: 21px;
+  }
+  .switchforRevnito {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switchforRevnito input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .sliderreee {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .sliderreee:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input + .sliderreee {
+    background-color: #2200ff;
+  }
+
+  input:checked + .sliderreee {
+    background-color: #f00;
+  }
+
+  input:focus + .sliderreee {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .sliderreee:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliderreees */
+  .sliderreee.round {
+    border-radius: 34px;
+  }
+
+  .sliderreee.round:before {
+    border-radius: 50%;
+  }
+
+  .bikedisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 105px;
+    row-gap: 75px;
+  }
+
+  .cardisplayflexrevnito {
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 105px;
+    row-gap: 75px;
+  }
+
+  .bikedisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 700px;
+    height: 425px;
+  }
+
+  .cardisplayflexrevnito iframe {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 700px;
+    height: 425px;
+  }
+
+  .biketooglenamerevnitro,
+  .cartooglenamerevnitro {
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+}
+
+/*--------------------------------------------Youtube Video Section----------------------------*/
+
+@media (min-width: 1000px) {
+  .DesktopBannerHides {
+    display: none;
+  }
+}
+
+@media (max-width: 1000px) {
+  .MobileBannerHides {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  /* .mobileversionfornrentriflex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 9px;
+    margin-top: 30px;
+  } */
+
+  .containermobiileversionforcards {
+    position: relative;
+    width: 80%;
+  }
+
+  .imagesdasansns {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .racingggsssbutton a {
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .overlaysadsddsdsd {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 0.5s ease;
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+
+  .containermobiileversionforcards:hover .overlaysadsddsdsd {
+    opacity: 1;
+  }
+
+  .textsadsddsddsd {
+    font-family: "Poppins";
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .racingggsssbutton {
+    width: 175px;
+    height: 30px;
+    background-color: transparent;
+    border: 2px solid blue;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 16px;
+    font-family: "Poppins";
+  }
+
+  .nameofthecupname {
+    font-size: 20px;
+  }
+  /*--------------------------------------------Image Section----------------------------*/
+  .mobileversionfornrentriflex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 9px;
+  }
+
+  .containermobiileversionforcards {
+    position: relative;
+    width: 80%;
+  }
+
+  .imagesdasansns {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .racingggsssbutton a {
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .overlaysadsddsdsd {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 0.5s ease;
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+
+  .containermobiileversionforcards:hover .overlaysadsddsdsd {
+    opacity: 1;
+  }
+
+  .textsadsddsddsd {
+    font-family: "Poppins";
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .racingggsssbutton {
+    width: 175px;
+    height: 30px;
+    background-color: transparent;
+    border: 2px solid blue;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 16px;
+    font-family: "Poppins";
+  }
+
+  .nameofthecupname {
+    font-size: 20px;
+  }
+  /*----------------------------------------------MEDAI--------------------------------------*/
+}
