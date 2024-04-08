@@ -1,8 +1,31 @@
 import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import AOS from "aos";
-import { Carousel } from "react-bootstrap";
+import { Carousel as Carousel1 } from "react-bootstrap";
+
+import Carousel from "react-multi-carousel";
+import "react-multi-carousel/lib/styles.css";
+
 export default function Home() {
+  const responsive = {
+    superLargeDesktop: {
+      // the naming can be any, depends on you.
+      breakpoint: { max: 4000, min: 3000 },
+      items: 5,
+    },
+    desktop: {
+      breakpoint: { max: 3000, min: 1024 },
+      items: 3,
+    },
+    tablet: {
+      breakpoint: { max: 1024, min: 464 },
+      items: 2,
+    },
+    mobile: {
+      breakpoint: { max: 464, min: 0 },
+      items: 1,
+    },
+  };
   const [visibleSection, setVisibleSection] = useState(0);
   const [isChecked, setIsChecked] = useState(false);
 
@@ -20,14 +43,14 @@ export default function Home() {
         {/* <!-----------------------------------------------Banner--------------------------------------> */}
 
         <div className="DesktopBannerHides">
-          <Carousel>
-            <Carousel.Item style={{ background: "white" }}>
+          <Carousel1>
+            <Carousel1.Item style={{ background: "white" }}>
               <img
                 className="d-block w-100"
                 src="./images/MobilePageFirstImage.JPG"
                 alt="First slide"
               />
-              <Carousel.Caption>
+              <Carousel1.Caption>
                 <h3 className="HeadingBannerImageTextDiv">RTR 310</h3>
 
                 <p className="BannerImgParatext">
@@ -44,15 +67,15 @@ export default function Home() {
                     </a>
                   </div>
                 </p>
-              </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item style={{ background: "white" }}>
+              </Carousel1.Caption>
+            </Carousel1.Item>
+            <Carousel1.Item style={{ background: "white" }}>
               <img
                 className="d-block w-100"
                 src="./images/MobilePageSecondmage.png"
                 alt="Second slide"
               />
-              <Carousel.Caption>
+              <Carousel1.Caption>
                 <h3 className="HeadingBannerImageTextDiv">
                   New Scrambler 400X
                 </h3>
@@ -70,15 +93,15 @@ export default function Home() {
                     </a>
                   </div>
                 </p>
-              </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item style={{ background: "white" }}>
+              </Carousel1.Caption>
+            </Carousel1.Item>
+            <Carousel1.Item style={{ background: "white" }}>
               <img
                 className="d-block w-100"
                 src="./images/MobilePageThirdimage.png"
                 alt="Third slide"
               />
-              <Carousel.Caption>
+              <Carousel1.Caption>
                 <h3 className="HeadingBannerImageTextDiv">Karizma XMR</h3>
                 <p className="BannerImgParatext">
                   Most Powerful in its class, Max Power 25.5 Ps @ 9250 RPM and
@@ -94,20 +117,20 @@ export default function Home() {
                     </a>
                   </div>
                 </p>
-              </Carousel.Caption>
-            </Carousel.Item>
-          </Carousel>
+              </Carousel1.Caption>
+            </Carousel1.Item>
+          </Carousel1>
         </div>
 
         <div className="MobileBannerHides">
-          <Carousel>
-            <Carousel.Item style={{ background: "white" }}>
+          <Carousel1>
+            <Carousel1.Item style={{ background: "white" }}>
               <img
                 className="d-block w-100"
                 src="./images/FirsdtBannerIamge.png"
                 alt="First slide"
               />
-              <Carousel.Caption>
+              <Carousel1.Caption>
                 <h3 className="HeadingBannerImageTextDiv">RTR 310</h3>
 
                 <p className="BannerImgParatext">
@@ -124,15 +147,15 @@ export default function Home() {
                     </a>
                   </div>
                 </p>
-              </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item style={{ background: "white" }}>
+              </Carousel1.Caption>
+            </Carousel1.Item>
+            <Carousel1.Item style={{ background: "white" }}>
               <img
                 className="d-block w-100"
                 src="./images/WesbiteMobileBannertwo.png"
                 alt="Second slide"
               />
-              <Carousel.Caption>
+              <Carousel1.Caption>
                 <h3 className="HeadingBannerImageTextDiv">
                   New Scrambler 400X
                 </h3>
@@ -150,15 +173,15 @@ export default function Home() {
                     </a>
                   </div>
                 </p>
-              </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item style={{ background: "white" }}>
+              </Carousel1.Caption>
+            </Carousel1.Item>
+            <Carousel1.Item style={{ background: "white" }}>
               <img
                 className="d-block w-100"
                 src="./images/WesbiteMobileBannerthree.png"
                 alt="Third slide"
               />
-              <Carousel.Caption>
+              <Carousel1.Caption>
                 <h3 className="HeadingBannerImageTextDiv">Karizma XMR</h3>
                 <p className="BannerImgParatext">
                   Most Powerful in its class, Max Power 25.5 Ps @ 9250 RPM and
@@ -174,9 +197,9 @@ export default function Home() {
                     </a>
                   </div>
                 </p>
-              </Carousel.Caption>
-            </Carousel.Item>
-          </Carousel>
+              </Carousel1.Caption>
+            </Carousel1.Item>
+          </Carousel1>
         </div>
 
         {/* <!---------------------------------------------------Banner--------------------------------------> */}
@@ -746,7 +769,103 @@ export default function Home() {
             <h2>received consultation :</h2>
           </div>
 
-          <div>{/* <Testimonials /> */}</div>
+          <div>
+            <Carousel responsive={responsive} class="carouselzzszzv">
+              <div className="BorderDivoftheFeedbackSection">
+                <div className="ImageSectionflexconcept">
+                  <img
+                    className="ImageoftheUserFeedbacks"
+                    src="./images/david.JPG"
+                  />
+                </div>
+                <div className="NameoftheFeedbacerDiv">David</div>
+                <div className="MainclasfecbackjContents">
+                  RevNitro's bike consultation was fantastic. Their expert team
+                  helped me find my dream bike. Highly recommended!
+                </div>
+              </div>
+
+              <div className="BorderDivoftheFeedbackSection">
+                <div className="ImageSectionflexconcept">
+                  <img
+                    className="ImageoftheUserFeedbacks"
+                    src="./images/david.JPG"
+                  />
+                </div>
+                <div className="NameoftheFeedbacerDiv">Abdul</div>
+                <div className="MainclasfecbackjContents">
+                  RevNitro's bike consultation was top-notch. They know their
+                  stuff and helped me find the perfect ride. Highly recommended!
+                </div>
+              </div>
+
+              <div className="BorderDivoftheFeedbackSection">
+                <div className="ImageSectionflexconcept">
+                  <img
+                    className="ImageoftheUserFeedbacks"
+                    src="./images/david.JPG"
+                  />
+                </div>
+                <div className="NameoftheFeedbacerDiv">Jeshrun</div>
+                <div className="MainclasfecbackjContents">
+                  Thanks to RevNitro, I'm now cruising on the bike of my dreams.
+                  Their consultation service is a game-changer
+                </div>
+              </div>
+              <div className="BorderDivoftheFeedbackSection">
+                <div className="ImageSectionflexconcept">
+                  <img
+                    className="ImageoftheUserFeedbacks"
+                    src="./images/david.JPG"
+                  />
+                </div>
+                <div className="NameoftheFeedbacerDiv">Abdul</div>
+                <div className="MainclasfecbackjContents">
+                  RevNitro's bike consultation was top-notch. They know their
+                  stuff and helped me find the perfect ride. Highly recommended!
+                </div>
+              </div>
+              <div className="BorderDivoftheFeedbackSection">
+                <div className="ImageSectionflexconcept">
+                  <img
+                    className="ImageoftheUserFeedbacks"
+                    src="./images/david.JPG"
+                  />
+                </div>
+                <div className="NameoftheFeedbacerDiv">Abdul</div>
+                <div className="MainclasfecbackjContents">
+                  RevNitro's bike consultation was top-notch. They know their
+                  stuff and helped me find the perfect ride. Highly recommended!
+                </div>
+              </div>
+              <div className="BorderDivoftheFeedbackSection">
+                <div className="ImageSectionflexconcept">
+                  <img
+                    className="ImageoftheUserFeedbacks"
+                    src="./images/david.JPG"
+                  />
+                </div>
+                <div className="NameoftheFeedbacerDiv">Abdul</div>
+                <div className="MainclasfecbackjContents">
+                  RevNitro's bike consultation was top-notch. They know their
+                  stuff and helped me find the perfect ride. Highly recommended!
+                </div>
+              </div>
+              <div className="BorderDivoftheFeedbackSection">
+                <div className="ImageSectionflexconcept">
+                  <img
+                    className="ImageoftheUserFeedbacks"
+                    src="./images/david.JPG"
+                  />
+                </div>
+                <div className="NameoftheFeedbacerDiv">Abdul</div>
+                <div className="MainclasfecbackjContents">
+                  RevNitro's bike consultation was top-notch. They know their
+                  stuff and helped me find the perfect ride. Highly recommended!
+                </div>
+              </div>
+            </Carousel>
+          </div>
         </div>
 
         {/* <!---------------------------------------------------Dont' Just--------------------------------------> */}

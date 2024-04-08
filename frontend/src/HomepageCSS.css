@@ -8936,3 +8936,91 @@ body {
   }
   /*----------------------------------------------MEDAI--------------------------------------*/
 }
+
+.BorderDivoftheFeedbackSection {
+  scroll-snap-align: start;
+  /* width: 311px; */
+  height: 375px;
+  list-style: none;
+  background: #000000;
+  cursor: pointer;
+  padding-bottom: 0px;
+  flex-direction: column;
+  border-radius: 8px;
+  border: 2px solid white;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 50px;
+}
+
+.ImageoftheUserFeedbacks {
+  width: 137px;
+  height: 137px;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+
+.ImageSectionflexconcept {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.NameoftheFeedbacerDiv {
+  font-weight: 500;
+  font-size: 26px;
+  margin: 12px 0 5px;
+  margin-bottom: 20px;
+  color: #ffffff;
+  margin-top: 19px;
+  padding-left: 27px;
+}
+
+.MainclasfecbackjContents {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: "Poppins";
+  margin-top: 13px;
+  padding: 5px;
+  padding-left: 27px;
+  padding-right: 10px;
+}
+
+.react-multiple-carousel__arrow--left::before,
+.react-multiple-carousel__arrow--right::before {
+  content: "\e824";
+  background: white;
+  color: black !important;
+  height: 34px !important;
+  width: 33px !important;
+  border-radius: 50%;
+}
+
+.react-multiple-carousel__arrow::before {
+  font-size: 20px;
+  color: #fff;
+  display: block;
+  font-family: revicons;
+  text-align: center;
+  z-index: 2;
+  position: relative;
+  padding-right: 0px;
+  padding-top: 2px;
+}
+
+@media (max-width: 1000px) {
+  .BorderDivoftheFeedbackSection {
+    scroll-snap-align: start;
+    height: 403px;
+    list-style: none;
+    background: #000000;
+    cursor: pointer;
+    padding-bottom: 0px;
+    flex-direction: column;
+    border-radius: 8px;
+    border: 2px solid white;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+  }
+}

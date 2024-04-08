@@ -8,12 +8,15 @@ import Home from "./Components/Home";
 import Team from "./Components/Team";
 import Footer from "./Components/Footer";
 import Header from "./Components/header";
+import { Navbar } from "./Components/HeaderNew";
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      {/* <Header /> */}
+
       <BrowserRouter>
+        <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/team" element={<Team />} />
